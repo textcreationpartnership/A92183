@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For G.P. or the author of a little book entituled, Just measures, in an epistle, &amp;c. and to all approvers thereof; with a postscript and a few words to the yearly meeting in London.</title>
+            <author>Raunce, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92183</idno>
+            <idno type="STC">Wing R321</idno>
+            <idno type="STC">ESTC R182373</idno>
+            <idno type="EEBO-CITATION">45789389</idno>
+            <idno type="OCLC">ocm 45789389</idno>
+            <idno type="VID">172700</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172700)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2646:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For G.P. or the author of a little book entituled, Just measures, in an epistle, &amp;c. and to all approvers thereof; with a postscript and a few words to the yearly meeting in London.</title>
+                  <author>Raunce, John, 17th cent.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author the 10th day of the 3d month, in the year,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penn, William, 1644-1718. --  Just measures.</term>
+               <term>Just measures.</term>
+               <term>Society of Friends --  England --  Doctrines --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172700:1" rendition="simple:additions"/>
+            <div type="body_of_letter">
+               <head>
+                  <hi>For G. P. Or the Author of a little Book, entituled,</hi> Juſt Meaſures, in an Epiſtle, <hi>&amp;c. and to all the Approvers thereof; with a Poſtſcript and a few Words to the Yearly Meeting in</hi> London.</head>
+               <opener>
+                  <salute>Friend <hi>G. P.</hi>
+                  </salute>
+               </opener>
+               <p>IF I had known as certainly where to find thee, as I may ſuppoſe who thou art, then I would not have appeared to ſeek after thee in this manner, for I am perſuaded I may conclude, Thou art one of thoſe very Perſons that knoweth better Things than thou practiſeſt; and it is contrary to thy Knowledg, to buſie thy ſelf about ſuch Fallible Things, as are of late Days crept into the Church, among many of which I ſhall at this Time take notice of what thou haſt given me an occaſion to conſider, in a little Book, ſubſcribed as by an Author, <hi>G. P.</hi> and entituled, <hi>Juſt Meaſures, in an Epiſtle of Peace and Love, to ſuch Profeſſors of Truth as are under any Diſſatisfaction about the Preſent Order practiſed in the Church of Chriſt.</hi>
+               </p>
+               <p>I cannot better begin than with one of the Scriptures thou doſt in Page 19. recommend, To Read and Mark the Bent and Force of the Apoſtle's Spirit, as in <hi>Romans,</hi> in many Places, ſo in Chapter xvi. Verſe 17, and 18. <hi>Now I beſeech you Brethren, mark them which cauſe Diviſions and Offences, contrary to the Doctrine which ye have learned and avoid them; for they that are ſuch, ſerve not our Lord Jeſus Chriſt but their own Bellies, and by good Words and fair Speeches deceive the Hearts of the Simple.</hi> Conſider this, and do as in Pages 18, 19, 20.</p>
+               <p>Upon a Serious Conſideration of what thou haſt preſſed us unto, thou haſt taken ſuch Meaſures as are not for Peace, as too many others do, which are like-minded with thee againſt us: For we are conſcienciouſly concerned to ſhew our Diſſatisfaction againſt your ſo earneſtly preſſing us, for a Conformity to ſuch unſcriptural Orders, as we have no Faith in, to be ſubject to in your Way and Manner of impoſing upon Peoples Conſci<g ref="char:EOLhyphen"/>ences, contrary to their Faith; for we look upon them as Innovations, and are certainly perſuaded, they will, in a little Time, appear to be but the Inventions of Men. It is a good Saying that's mentioned <hi>Colloſſ.</hi> 3. 15. <hi>And let the peace of God rule in your hearts, to the which alſo ye are called, in one body, and be you thankful.</hi> Thou hadſt been a happy Perſon, and the Aprovers of thy Work, if they had ſo walked among their Brethren.</p>
+               <p>Though we are bid in Page 20. "Lay down every Mark or Enſign of Difference or Separation. Now let <hi>G. P.</hi> and all his Approvers conſider, What are the proper Marks or Enſigns of Difference or Separation.</p>
+               <p>Next, let us find out the Parties who practiſe or give the Marks or Enſigns of Difference for a Separation.</p>
+               <p>And to the firſt, we have ſufficiently in our Account from <hi>Wickham</hi> made it known: And it is alſo in moſt Meetings when we appear as Perſons concerned, in a Publick Teſtimony, where ſome of you are preſent, then it is very apparent what thoſe Marks or Enſigns of Difference are, which tend to a Separation, <hi>viz.</hi> Your unbecoming Striving in Meetings, to keep us from having any Liberty, or Time to offer our Gifts, and to clear our Conſcience in the Things of God, whererein we are concerned. Alſo your Unchriſtian Behaviour towards us, by ſitting in an uncomly Man<g ref="char:EOLhyphen"/>ner, when we are upon our Knees to the Lord, in that holy Duty.</p>
+               <p>As for the Second Thing: Concerning the Perſons that practiſe theſe Marks and Enſigns of Difference, which lead to a Separation, thou and many of you know in your own Conſciences, It is them that talk ſo much of Good Orders, and practiſe ſo little. And whereas we are bid to diſpoſe our Minds to a returning State, and frighten not our ſelves, as in Page 20. <hi>&amp;c.</hi> Now we certainly know thou, and them thou calleſt thy Brethren, have and would impoſe upon us the Obſervation of a Woman's Meeting, diſtinct from the Men: But a diſtinct Woman's Meeting on a Religious account or Buſineſs, as about the Government of the Church, concerning Order or Diſcipline, ſeparate from the Men, as it is practiſed about Marriages, we look upon as an Innovation, and impoſing upon our Conſciences that which we have no Faith to receive.</p>
+               <p>And here, as in other Things, thou doſt not take <hi>Juſt Meaſures,</hi> where thou bidſt us, as in Page 11. <q>take Notice of our own Conceſſions where we allow Meetings of Care in general, and do not deny the Women abſolutely their Share among the Men.</q>
+               </p>
+               <p>It is very true, we do allow Meetings of Care in general, where Men and Women being met together, as Things offer, and as Occaſions do require, we take Care to do thoſe Things which are for the well-being of our Societies, and that every thing may be done according to Truth, and in the Fear of God; and as we have publiſhed in our Account from <hi>Wickham,</hi> ſo we practiſe.</p>
+               <p>But all this maketh nothing; for ſuch a diſtinct Woman's Meeting from the Men, where you would have all Marriages firſt propoſed, <hi>&amp;c.</hi> And here again thou doſt not make <hi>Juſt Meaſure,</hi> when in ſo many Pages thou doſt mak it thy Buſineſs, as it were, to inſinuate the Neceſſity and Uſeful<g ref="char:EOLhyphen"/>neſs of a diſtinct Woman's Meeting, as Pages 3, 5, 7, 8, 9, 10, 11. And yet, notwithſtanding all thou haſt ſaid about it, thou tells us, among other Things, in Pages 5, and 7. <q>There is no need of an Act of Faith or other Exerciſes of Conſcience, than to be ready to every good Word and Work:</q> And further, when thou haſt uſed many Words about the Matter before-mentioned, thou tells us again, it can be no Impoſition, as before is expreſſed, becauſe, as thou ſayeſt, It is no Matter of Faith nor Practice of Worſhip, as in Page 7, <hi>&amp;c.</hi> Although it be no Matter of Faith to thee and them that ſet it up, and preſs others to it: Yet it is a matter of Faith to us, you would impoſe upon, contrary to our Conſcience: For, as the Apoſtle ſaith, <hi>Rom.</hi> 14. 23. <hi>Whatſoever is not of Faith is Sin.</hi>
+               </p>
+               <p>And to make ſhort, when thou giveſt thy Senſe upon the whole Matter, as in Page 9 and 10. Thy Meaſures are very unjuſt concerning us, where thouſayeſt, "Our Diſſent tended to the breach of Brotherly Love and Unity in the Church; but it is well known your Unchriſtian Behaviour was the cauſe of our Diſſent.</p>
+               <p>And for further Anſwer to <hi>G. P.</hi> and to all the Approvers of his Work, I return what <hi>W. P.</hi> hath written in his Book, called, <hi>An Ad<g ref="char:EOLhyphen"/>dreſs to Proteſtants;</hi> and it is deſired that <hi>G. P.</hi> and all others concerned, would conſider what he hath ſaid againſt Impoſition, as from Page the 140. to Page the 150. and in many other Places; but eſpecially in Page 144. are theſe Words. <q>But an Impoſing Church bears Witneſs of herſelf, and will be both Party and Judg; it requires Aſſent without Evidence, and Faith without Proof, therefore falſe. Chriſtian Religion ought to be carried on only by that way by which it was introduced; which was, Perſuaſion; <hi>If any Man will be my Diſciple, let him take up his Croſs and follow me:</hi>
+                  </q> And this is the Glory of it, that it doth not deſtroy, but fairly conquers the Underſtanding. And now for a Conclu<g ref="char:EOLhyphen"/>ſion, let <hi>G. P.</hi> and all his Approvers conſider, what <hi>W. P.</hi> hath pubiſhed for Truth, and openly declared as his Faith and Judgment: Then I hope <hi>G. P.</hi> and his Brethren, will not be unwilling to do as <hi>W. P.</hi> hath written in the Book and Pages before mentioned.</p>
+            </div>
+            <div type="postscript">
+               <head>
+                  <hi>POSTSCRIPT, by way of Queries to</hi> G. P. <hi>and others concerned.</hi>
+               </head>
+               <p>If according to the Ancient Doctrin of Truth, all People ought to be mindful in Matters relating to God, of the Conviction by the Light and Spirit of Chriſt in every Conſcience:</p>
+               <p>Then no Man ought to impoſe any Religion or other Matter upon his Brother's Conſcience, contrary to his Faith; <hi>For whatſoever is not of Faith is Sin,</hi> to him that doth it doubtingly: <hi>He that doubteth, is damned if he eat, becauſe not of Faith,</hi> Rom. 14. 23.</p>
+               <p>And as thy Words ſeem to imply, it hath been and is moſt ſincerely declared by the Brethren, That they have no Thoughts or Deſign of Impo<g ref="char:EOLhyphen"/>ſing any thing upon the Conſcience of Friends; ſo hereby thou giveſt occaſion to ask, Who thoſe Brethren are among you? And alſo where I may find them, that do as thou haſt ſaid? Such are none of thoſe buſie-Bodies or talkative Preachers, who run before they are ſent, and ſpeak of Things they do not underſtand; which have too much Incouragement from you, either by your Silence, in not reproving of them, or elſe by your Pra<g ref="char:EOLhyphen"/>ctice, as an ill Example unto them. And further, I deſire to know, what is the Reaſon you break all Union, Friendſhip, Charity and Chriſtian Fellowſhip, with us; and behave your ſelves ſo towards us in Publick Meetings, and where-ever you meet us, before any ſort of People, as if we were Out-caſts and Reprobates, and you ſet a Mark upon us, for all that are like-minded with you, to ſhoot their Arrows of Envy and blind Zeal againſt us, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>A few Words to the</hi> Yearly Meeting <hi>in</hi> London.</p>
+               <p>Friends, conſider well among your ſelves, what ſome of you have been doing this many years: And remember your Paper of Judgment, you gave againſt <hi>J. S.</hi> and <hi>J. W.</hi> Signed by above ſixty ſuch Perſons, as belonged to, or were owned by the Yearly Meeting in that Day. Alſo let your Eyes and Ears be opened, that you may ſee, hear and conſider, the evil Works that Paper hath brought forth; and too many of you by your Silence (if not Practice) have encouraged that evil Work for many years, to the grief and trouble of many Righteous Souls.</p>
+               <p>And it is greatly deſired it may come to your Remembrance, how ſome Perſons among you carry or bring falſe Reports, and tell you that which hath not been really true; and from you it hath been ſent abroad as Truth: When as many know, too much of what you ſay is not true, but as it was ſaid of old, <hi>Report and we will Report it.</hi>
+               </p>
+               <p>Oh now no more! Let the Cry of the Oppreſſed Innocent, by you any longer be neglected; for your Eyes have ſeen, and your Ears have heard, our Tryals, and our patient Sufferings have been before many of your Faces; and unto you have ſome of us called for Juſtice and true Judgment, in Righteouſneſs and Truth: But as yet, you have taken little notice of our great Exerciſe and Patience, with which we have born and ſuffered for Truth and Righteouſneſs ſake; your buſineſs hath been rather to make our Afflictions greater, our Burdens heavier, and our Troubles more on every ſide, ſo did our old Perſecutors: And ſo that you have given us juſt occaſion to take up againſt you, the Prophet's Complaint, <hi>viz. Judgment is turned away backward, and Juſtice stands afar off; for Truth is falling in the Street, and Equity cannot enter: Yea Truth faileth, and he that departeth from Evil, maketh himſelf a Prey,</hi> &amp;c.</p>
+               <p>The Lord beholdeth your Works, and is diſpleaſed with much of your Doings; and if there be not Repentance, and an Amendment of all that <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s wrong and hath been done amiſs; then know this is the Word of the Lord to you, and unto all that are concerned, <hi>The Almighty God is near at Hand, to viſit all Backſliders, and all who hold the Truth in <g ref="char:V">Ʋ</g>nrighteouſneſs, and keep not the Commandments of God; but are ſmiting their Fellow-Servants, <gap reason="illegible: missing" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>aking pleaſure in <g ref="char:V">Ʋ</g>nrighteouſneſs, and are found in riotous Practices in the day time. Woe, Woe, for the Lord Almighty as an angry God, will with ſore and <gap reason="illegible: missing" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>vere Judgments come ſuddenly upon an unworthy and an unthankful People, for whomhe hath done ſo great Things.</hi> Therefore Oh Friends, prepare to meet <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Lord! And let us be at Peace among our ſelves.</p>
+               <closer>
+                  <signed>John Rance.</signed>
+                  <dateline>Wickham <date>the <hi>5th of the 3d. Month,</hi> 1692.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for the Author the 10th Day of the 3d Month, in the Year 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
